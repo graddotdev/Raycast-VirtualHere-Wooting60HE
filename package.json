@@ -1,17 +1,18 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "vhw60he",
-  "title": "vhw60he",
-  "description": "",
+  "name": "raycase-virtualhere-wooting60he",
+  "title": "Wooting 60HE+ via VirtualHere",
+  "description": "Easily manage your Wooting 60HE+ keyboard's VirtualHere connection directly from Raycast.",
   "icon": "extension-icon.png",
-  "author": "grad",
+  "author": "grad.dev",
   "license": "MIT",
   "commands": [
     {
-      "name": "vhw60he",
-      "title": "vhw60he",
-      "description": "",
-      "mode": "no-view"
+      "name": "main",
+      "title": "Wooting 60HE+",
+      "description": "Easily manage your Wooting 60HE+ keyboard's VirtualHere connection directly from Raycast.",
+      "mode": "no-view",
+      "interval": "10s"
     }
   ],
   "dependencies": {
