@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "raycase-virtualhere-wooting60he",
+  "name": "raycast-virtualhere-wooting60he",
   "title": "Wooting 60HE+ via VirtualHere",
   "description": "Easily manage your Wooting 60HE+ keyboard's VirtualHere connection directly from Raycast.",
   "icon": "extension-icon.png",
